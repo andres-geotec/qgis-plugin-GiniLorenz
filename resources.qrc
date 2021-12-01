@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gini_lorenz" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
